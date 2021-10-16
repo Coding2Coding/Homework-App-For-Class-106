@@ -1,0 +1,22 @@
+#bodyTag {
+    background: linear-gradient(rgb(232, 214, 255) 0%, lightcoral 100%);
+    font-family: Calibri;
+    color: #ffffff;
+}
+
+#heading {
+    background: lightskyblue;
+    border-style: dashed;
+    border-color: #ffffff;
+}
+
+#sounds {
+    background:rgb(232, 214, 255);
+    border-style: dashed;
+    border-color: #ffffff;
+}
+
+#startButton {
+    background: lightskyblue;
+    border-color: #ffffff;
+}
